@@ -40,8 +40,7 @@
 }
 
 .logo-header {
- font-family: 'Raleway' sans-serif;
-font-style: normal;
+font-family: 'Raleway', sans-serif;
 font-weight: 700;
 font-size: 26px;
 line-height: 1.19;
@@ -128,7 +127,6 @@ background: var(--header-botom-color);
 }
 
 .sub-text {
-font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;
@@ -161,7 +159,6 @@ color: var(--text-font);
 }
 
 .specialist-position {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
     text-align: center;
@@ -176,7 +173,7 @@ color: var(--text-font);
 }
 
 .footer-logo {
-font-family: 'Raleway' sans-serif;
+font-family: 'Raleway', sans-serif;
 font-weight: 700;
 font-size: 26px;
 line-height: 1.19;
@@ -191,7 +188,6 @@ color: var(--text-accent);
 
 .address-footer-link{
 font-style: normal;
-font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;
@@ -199,8 +195,6 @@ color: var(--text-accent);
 }
 
 .footer-mail{
-font-style: normal;
-font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;
@@ -209,12 +203,10 @@ color: rgba(255, 255, 255, 0.6);
 }
 
 .footer-phone-number{
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
-    color: rgba(255, 255, 255, 0.6);
+font-size: 14px;
+line-height: 1.71;
+ letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
     
 }
 /*<!--FOOTER-->*/
@@ -243,14 +235,13 @@ color: var(--text-accent);
 }
 
 .project-item-name{
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 2;
-    letter-spacing: 0.06em;
-    color: var(--text-font);
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: var(--text-font);
 }
 .project-item-product{
-font-weight: 400;
 font-size: 16px;
 line-height: 1.88;
 letter-spacing: 0.03em;
